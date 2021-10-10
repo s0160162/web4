@@ -67,7 +67,7 @@ box-sizing: border-box;
   
   
   
-@media screen and (min-width: 240 px) and (max-width: 360 px) {
+@media screen and (max-width: 780px) {
 
   body{
     color: #350221;
@@ -111,6 +111,9 @@ box-sizing: border-box;
       text-align: left;
   }
     
+    .menu {
+        width: 150px
+    }
 
 .spisok{
     background-color: rgba(252, 124, 230, 0.384);
